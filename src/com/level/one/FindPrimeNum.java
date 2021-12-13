@@ -17,7 +17,7 @@ public class FindPrimeNum {
 		
 		for(int i = 2; i < n; i++) {
 			for(int j = 2; j < i/2; j++) {
-				  
+				 
 			}
 		}
 		
